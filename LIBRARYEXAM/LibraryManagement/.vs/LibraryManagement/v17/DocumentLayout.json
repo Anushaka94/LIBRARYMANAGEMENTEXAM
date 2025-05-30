@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Library Management System Ict\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|d:\\library management system ict\\librarymanagement\\librarymanagement\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100827_DOCUMENTS_LIBRARYMANAGEMENT.MDF/True/SqlTable/dbo.Authors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|D:\\Library Management System Ict\\LibraryManagement\\librarymanagement\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|D:\\Library Management System Ict\\LibraryManagement\\librarymanagement\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100827_DOCUMENTS_LIBRARYMANAGEMENT.MDF/True/SqlTable/dbo.Categorys.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|D:\\Library Management System Ict\\LibraryManagement\\librarymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|D:\\Library Management System Ict\\LibraryManagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|D:\\Library Management System Ict\\LibraryManagement\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|D:\\Library Management System Ict\\LibraryManagement\\librarymanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Migrations\\20250530054004_Initial-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D28A310-A5D7-452D-8BBF-5515CEB1451A}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:LibraryManagement\\Migrations\\20250530054004_Initial-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 161,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Model\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Author.cs",
+              "ToolTip": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Model\\Author.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:17:41.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Category.cs",
+              "ToolTip": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Model\\Category.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:18:21.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Authors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100827_DOCUMENTS_LIBRARYMANAGEMENT.MDF/True/SqlTable/dbo.Authors.sql",
+              "ToolTip": "dbo.Authors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-30T05:56:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAtwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:44:18.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:28:29.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Categorys [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_100827_DOCUMENTS_LIBRARYMANAGEMENT.MDF/True/SqlTable/dbo.Categorys.sql",
+              "ToolTip": "dbo.Categorys [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-30T06:08:07.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvygAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:35:13.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250530054004_Initial-Migration.cs",
+              "DocumentMoniker": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Migrations\\20250530054004_Initial-Migration.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\20250530054004_Initial-Migration.cs",
+              "ToolTip": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Migrations\\20250530054004_Initial-Migration.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\20250530054004_Initial-Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:40:04.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.json",
+              "ToolTip": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T05:32:52.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Model\\Book.cs",
+              "ToolTip": "D:\\Library Management System Ict\\LibraryManagement\\LibraryManagement\\Model\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:18:01.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
